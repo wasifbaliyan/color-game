@@ -7,4 +7,4 @@
 - JavaScript
 
 Live Version
-(Color Game)[https://wasifbaliyan.github.io/color-game]
+[Color Game](https://wasifbaliyan.github.io/color-game)
